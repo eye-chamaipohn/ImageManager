@@ -8,5 +8,6 @@ namespace ImageManager
 {
     internal class ImageConverter
     {
+
     }
 }
